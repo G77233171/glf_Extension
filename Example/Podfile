@@ -1,0 +1,6 @@
+use_frameworks!
+target 'glf_Extension_Tests' do
+  pod 'glf_Extension', :path => '../'
+  
+  
+end
