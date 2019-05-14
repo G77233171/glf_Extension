@@ -1,0 +1,6 @@
+framework module glf_Extension {
+  umbrella header "glf_Extension-umbrella.h"
+
+  export *
+  module * { export * }
+}

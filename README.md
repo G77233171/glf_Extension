@@ -22,7 +22,7 @@ pod 'glf_Extension'
 
 ## Author
 
-77233171@qq.com, 511721488@qq.com
+fgl1100@qq.com
 
 ## License
 

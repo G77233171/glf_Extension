@@ -1,0 +1,16 @@
+PODS:
+  - glf_Extension (0.1.0)
+
+DEPENDENCIES:
+  - glf_Extension (from `../`)
+
+EXTERNAL SOURCES:
+  glf_Extension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  glf_Extension: ce08971c0ffd35311701d4bb3eec37d08d10e9af
+
+PODFILE CHECKSUM: d13398357100bb0640f7cf39e42714ea3a5519d2
+
+COCOAPODS: 1.5.3
